@@ -34,7 +34,9 @@
 
   "need_jid": "Please give me jid ❓",
 
-  "valid_jid": "*This not jid ❌ Please give me valid jid ❗*",
+  "valid_jid": "*This is not jid ❌ Please give me valid jid ❗*",
+
+  "valid_con": "This config type is invalid ❌",
 
   "ald_approve_jid": "Jid approve accept ✔",
 
