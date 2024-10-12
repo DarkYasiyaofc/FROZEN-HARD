@@ -32,6 +32,8 @@
 
   "you_adm": "Your Must Be Admin First 😒",
 
+  "gp_member" : "Please Mention group member ❗",
+
   "need_jid": "Please give me jid ❓",
 
   "valid_jid": "*This is not jid ❌ Please give me valid jid ❗*",
