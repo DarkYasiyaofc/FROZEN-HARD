@@ -16,6 +16,8 @@
   
   "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
 
+  "tiktok_url": "Please give me tiktok url ⁉",
+
   "size_big": "*File size is too big ❌*",
 
   "own_cmd": "*This is Owner Commad ‼*",
