@@ -60,7 +60,9 @@
 
   "mention_msg": "Please mention message ❗",
 
-  "err": "*An error occurred 🧑‍🎨❌*"
+  "err": "*An error occurred 🧑‍🎨❌*",
+
+  "nonb_mg": "🔢 Reply number,\n"
 }
 
 }
