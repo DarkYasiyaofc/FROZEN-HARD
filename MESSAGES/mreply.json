@@ -10,19 +10,21 @@
 
   "giveut": "*Please give me Url or Text ❓*",
 
+  "imgmg": "*Reply to a photo !*",
+  
   "not_fo": "*❌ I Couldn't find anything :(*",
 
   "url": "*Please give me Url ❓*",
   
   "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
 
-  "tiktok_url": "Please give me tiktok url ⁉",
+  "tiktok_url": "*Please give me tiktok url ⁉*",
 
-  "yt_url": "Please give me Name or Yt url ⁉",
+  "yt_url": "*Please give me Name or Yt url ⁉*",
 
-  "mfire_url": "Please give me mediafire url ⁉",
+  "mfire_url": "*Please give me mediafire url ⁉*",
 
-  "fb_url": "Please give me fb url ⁉",
+  "fb_url": "*Please give me fb url ⁉*",
 
   "size_big": "*File size is too big ❌*",
 
@@ -32,29 +34,29 @@
 
   "ald_set": "*Already set* ✅",
 
-  "only_gp": "This is group command ❗",
+  "only_gp": "*This is group command ❗*",
 
-  "inb_cmd": "This is inbox command ❗",
+  "inb_cmd": "*This is inbox command ❗*",
 
-  "give_adm": "Please give me admin first 🤦🏻‍♂️",
+  "give_adm": "*Please give me admin first 🤦🏻‍♂️*",
 
-  "you_adm": "Your Must Be Admin First 😒",
+  "you_adm": "*Your Must Be Admin First 😒*",
 
-  "gp_member" : "Please Mention Any member ❗",
+  "gp_member" : "*Please Mention Any member ❗*",
 
-  "need_jid": "Please give me jid ❓",
+  "need_jid": "*Please give me jid ❓*",
 
   "valid_jid": "*This is not jid ❌ Please give me valid jid ❗*",
 
-  "valid_con": "This config type is invalid ❌",
+  "valid_con": "*This config type is invalid ❌*",
 
-  "ald_approve_jid": "Jid approve accept ✔",
+  "ald_approve_jid": "*Jid approve accept ✔*",
 
-  "ald_approve_alljid": "All Jid approve accept ✔",
+  "ald_approve_alljid": "*All Jid approve accept ✔*",
 
-  "ald_reapprove_jid": "Jid approve reject ✔",
+  "ald_reapprove_jid": "*Jid approve reject ✔*",
 
-  "ald_reapprove_alljid": "All Jid approve reject ✔",
+  "ald_reapprove_alljid": "*All Jid approve reject ✔*",
 
   "moviex_reqowner": "```This Is DARKYASIYAXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
 
