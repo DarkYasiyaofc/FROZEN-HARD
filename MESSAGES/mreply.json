@@ -72,7 +72,9 @@
 
   "nonb_mg": "🔢 _Reply the number you want_,\n",
 
-  "boom_message": "Sended"
+  "boom_message": "Sended",
+
+  "space": " "
 }
 
 }
