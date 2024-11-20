@@ -76,7 +76,9 @@
 
   "nonb_mg": "🔢 _Reply the number you want_,\n",
 
-  "boom_message": "Sended",
+  "boom_message": "Message boom succes",
+
+  "fetch_message": "Web fetch succes"
 
   "space": " "
 }
