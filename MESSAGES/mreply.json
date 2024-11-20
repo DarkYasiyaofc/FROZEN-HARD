@@ -70,7 +70,9 @@
 
   "try": "*There was an error. Please try again later. ⛔*",
 
-  "nonb_mg": "🔢 _Reply the number you want_,\n"
+  "nonb_mg": "🔢 _Reply the number you want_,\n",
+
+  "boom_message": "Sended"
 }
 
 }
