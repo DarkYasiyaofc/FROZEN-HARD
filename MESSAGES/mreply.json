@@ -8,6 +8,10 @@
   
   "giveme": "*Please give me text ❓*",
 
+  "mv": "*Please give me movie name 👨‍🔧*",
+
+  "tvtext": "*Please give me tv show name 👨‍🔧*",
+
   "giveut": "*Please give me Url or Text ❓*",
 
   "imgmg": "*Reply to a photo !*",
@@ -28,11 +32,7 @@
 
   "size_big": "*File size is too big ❌*",
 
-  "own_cmd": "*This is Owner Commad 👨‍🔧*",
-
-  "mvtext": "*කරුණාකර ඔබ කැමති චිත්‍රපටයක නමක් ලබා දෙන්න ❓*",
-
-  "tvtext": "*කරුණාකර ඔබ කැමති ටෙලි ඩ්‍රාමා එකක නමක් ලබා දෙන්න ❓*",
+  "own_cmd": "*This is Owner Commad ‼*",
 
   "pre_cmd": "`Your not premier user` 🚫\n\n* Contact to buy a premium connection for 200 rupees for a month 🌿\n\n* https://wa.me/+94743548986 💝",
 
@@ -62,15 +62,11 @@
 
   "ald_reapprove_alljid": "*All Jid approve reject ✔*",
 
-  "moviex_reqowner": "```This Is DARKYASIYAXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
-
   "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
-
-  "erro": "Error",
 
   "mention_msg": "Please mention message ❗",
 
-  "err": "*දෝෂයක් ඇති විය, කරුණාකර නැවත උත්සහා කරන්න. ❌*",
+  "err": "*An error occurred 🧑‍🎨❌*",
 
   "try": "*There was an error. Please try again later. ⛔*",
 
