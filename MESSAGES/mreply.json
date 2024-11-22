@@ -28,7 +28,7 @@
 
   "size_big": "*File size is too big ❌*",
 
-  "own_cmd": "*This is Owner Commad ‼*",
+  "own_cmd": "*This is Owner Commad 👨‍🔧*",
 
   "mvtext": "*කරුණාකර ඔබ කැමති චිත්‍රපටයක නමක් ලබා දෙන්න ❓*",
 
@@ -70,7 +70,7 @@
 
   "mention_msg": "Please mention message ❗",
 
-  "err": "*An error occurred 🧑‍🎨❌*",
+  "err": "*දෝෂයක් ඇති විය, කරුණාකර නැවත උත්සහා කරන්න. ❌*",
 
   "try": "*There was an error. Please try again later. ⛔*",
 
