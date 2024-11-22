@@ -4,39 +4,73 @@
 "VERSION": "2.0.0",
 "CREATED BY": "DARKYASIYAXTEAM",
   
-"replyMsg": {  
+"replyMsg": {
+  
   "giveme": "*Please give me text ❓*",
-  "mvtext": "*කරුණාකර ඔබ කැමති චිත්‍රපටයක නමක් ලබා දෙන්න ❓*",
-  "tvtext": "*කරුණාකර ඔබ කැමති ටෙලි ඩ්‍රාමා එකක නමක් ලබා දෙන්න ❓*",
+
   "giveut": "*Please give me Url or Text ❓*",
-  "imgmg": "*Reply to a photo !*",  
-  "not_fo": "*❌ මට කිසිවක් සොයා ගැනීමට නොහැකි විය :(*",
-  "url": "*Please give me Url ❓*",  
+
+  "imgmg": "*Reply to a photo !*",
+  
+  "not_fo": "*❌ I Couldn't find anything :(*",
+
+  "url": "*Please give me Url ❓*",
+  
   "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
+
   "tiktok_url": "*Please give me tiktok url ⁉*",
+
   "yt_url": "*Please give me Name or Yt url ⁉*",
+
   "mfire_url": "*Please give me mediafire url ⁉*",
+
   "fb_url": "*Please give me fb url ⁉*",
+
   "size_big": "*File size is too big ❌*",
+
   "own_cmd": "*This is Owner Commad ‼*",
+
+  "pre_cmd": "`Your not premier user` 🚫\n\n* Contact to buy a premium connection for 200 rupees for a month 🌿\n\n* https://wa.me/+94743548986 💝",
+
   "ald_set": "*Already set* ✅",
+
   "only_gp": "*This is group command ❗*",
+
   "inb_cmd": "*This is inbox command ❗*",
+
   "give_adm": "*Please give me admin first 🤦🏻‍♂️*",
+
   "you_adm": "*Your Must Be Admin First 😒*",
+
   "gp_member" : "*Please Mention Any member ❗*",
+
   "need_jid": "*Please give me jid ❓*",
+
   "valid_jid": "*This is not jid ❌ Please give me valid jid ❗*",
+
   "valid_con": "*This config type is invalid ❌*",
+
   "ald_approve_jid": "*Jid approve accept ✔*",
+
   "ald_approve_alljid": "*All Jid approve accept ✔*",
+
   "ald_reapprove_jid": "*Jid approve reject ✔*",
+
   "ald_reapprove_alljid": "*All Jid approve reject ✔*",
+
+  "moviex_reqowner": "```This Is DARKYASIYAXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
+
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "Error",
+
   "mention_msg": "Please mention message ❗",
-  "err": "*දෝෂයක් ඇති විය, කරුණාකර නැවත උත්සහා කරන්න. ❌*",
+
+  "err": "*An error occurred 🧑‍🎨❌*",
+
   "try": "*There was an error. Please try again later. ⛔*",
-  "nonb_mg": "🔢 _Reply the number you want_,\n",
-  "boom_message": "Message boom succes",
-  "fetch_message": "Web fetch succes"
-  "space": ""
-}}
+
+  "nonb_mg": "🔢 _Reply the number you want_,\n"
+}
+
+}
