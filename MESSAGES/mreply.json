@@ -8,10 +8,6 @@
   
   "giveme": "*Please give me text ❓*",
 
-  "mv": "*Please give me movie name 👨‍🔧*",
-
-  "tvtext": "*Please give me tv show name 👨‍🔧*",
-
   "giveut": "*Please give me Url or Text ❓*",
 
   "imgmg": "*Reply to a photo !*",
@@ -62,7 +58,11 @@
 
   "ald_reapprove_alljid": "*All Jid approve reject ✔*",
 
+  "moviex_reqowner": "```This Is DARKYASIYAXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
+
   "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "Error",
 
   "mention_msg": "Please mention message ❗",
 
