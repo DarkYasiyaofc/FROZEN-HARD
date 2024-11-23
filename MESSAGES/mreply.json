@@ -70,7 +70,14 @@
 
   "try": "*There was an error. Please try again later. ⛔*",
 
-  "nonb_mg": "🔢 _Reply the number you want_,\n"
+  "nonb_mg": "🔢 _Reply the number you want_,\n",
+
+  "tvup": "Uploading Tv Series Full Episodes ⬆",
+  "tvup2": "Getting Episodes Urls..🔀",
+  "tvup3": "Getting Episodes Title, Quality and DL Site Urls..🔀",
+  "tvup4": "Getting Dl Site Gdrive Urls..🔀",
+  "tvup5": "Getting Gdrive Download Urls..🔀",
+  "tvup6": "All Details Geted and Uploading Episodes...⬇⬆"
 }
 
 }
